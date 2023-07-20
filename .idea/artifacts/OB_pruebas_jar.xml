@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OB pruebas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OB_pruebas_jar</output-path>
+    <root id="archive" name="OB pruebas.jar">
+      <element id="module-output" name="OB pruebas" />
+    </root>
+  </artifact>
+</component>
